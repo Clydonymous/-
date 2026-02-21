@@ -1,0 +1,12 @@
+{
+    "name": "パンチ",
+    "symbol": "Punch",
+    "description": "A baby Japanese macaque born just recently, who was abandoned right after birth and somehow survived thanks to six months of hand-rearing (artificial feeding) at a Japanese zoo. His name is Punch. The sight of him together with his stuffed monkey companion is now captivating so many people and going viral. Just like how he held on with the tiniest bit of hope and survived, may this become a meme that survives and thrives even in this brutal bear market,",
+    "image": "https://raw.githubusercontent.com/Clydonymous/-/refs/heads/main/Punch.png",
+    "attributes": [
+      {
+        "trait_type": "Item",
+        "value": "Developer Portal"
+      }
+    ]
+  }
